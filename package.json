@@ -1,0 +1,14 @@
+{
+    "name": "@amanraza/xmxn",
+    "version": "2.0.0",
+    "description": "Capitalises the first letter of each word in a string",
+    "license": "MIT",
+    "repository": "aman-raza/xmxn",
+    "main": "xmxn.js",
+    "keywords": [
+        "xmxn",
+        "npm",
+        "package",
+        "aman-raza"
+    ]
+}
