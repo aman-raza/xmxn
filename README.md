@@ -15,12 +15,12 @@ $ npm install @amanraza/xmxn
 ## Usage
 
 ```js
-const tiny = require("@amanraza/xmxn");
+const xmxn = require("@amanraza/xmxn");
 
-tiny("hello");
+xmxn("hello");
 //=> "Hello"
 
-tiny(9999);
+xmxn(9999);
 //=> Uncaught TypeError: xmxn needs a string!
 //    at tiny (<anonymous>:2:41)
 //    at <anonymous>:1:1
