@@ -1,7 +1,7 @@
 # xmxn
 
 [![npm (scoped)](https://img.shields.io/npm/v/@amanraza/xmxn.svg)](https://www.npmjs.com/package/@amanraza/xmxn)
-[![npm bundle size](https://img.shields.io/bundlephobia/min/nodejs)](https://www.npmjs.com/package/@amanraza/xmxn)
+[![npm bundle size](https://img.shields.io/bundlephobia/min/@amanraza/xmxn.svg)](https://www.npmjs.com/package/@amanraza/xmxn)
 
 
 Capitalises a string.
